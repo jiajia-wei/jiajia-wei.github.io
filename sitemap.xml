@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jiajia-wei.github.io/</loc>
-    <lastmod>2024-02-24T21:16:58+08:00</lastmod>
-  </url><url>
     <loc>https://jiajia-wei.github.io/blog/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jiajia-wei.github.io/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jiajia-wei.github.io/blog/markdown/</loc>
@@ -17,8 +17,6 @@
     <loc>https://jiajia-wei.github.io/blog/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jiajia-wei.github.io/bear/</loc>
-  </url><url>
-    <loc>https://jiajia-wei.github.io/hugo/</loc>
+    <loc>https://jiajia-wei.github.io/jiajia/</loc>
   </url>
 </urlset>
