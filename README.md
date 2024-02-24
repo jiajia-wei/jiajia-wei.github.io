@@ -1,2 +1,1 @@
-# jiajia-wei.github.io
-Jiajia's blog
+Hi, I am Jijia Wei!
