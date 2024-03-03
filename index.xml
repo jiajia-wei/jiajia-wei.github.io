@@ -2,16 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://jiajia-wei.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://jiajia-wei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Mar 2024 11:18:49 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sun, 03 Mar 2024 11:18:49 +0800</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Curriculum Vitae</description>
+    </item>
     <item>
       <title>Research</title>
-      <link>https://jiajia-wei.github.io/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jiajia-wei.github.io/research/</guid>
+      <guid>http://localhost:1313/research/</guid>
       <description>Conference Presentation&#xA;2023&#xA;Wei, J. &amp;ldquo;Trends in Returns to Secondary Vocational Education in China (2005-2017): An Analysis Using Age-Period-Cohort Model&amp;rdquo; (In Chinese).&#xA;Urban Social Forum 2023, Editorial Department of Sociological Studies, Guangzhou. Wei, J. &amp;ldquo;Deinstitutionalization or Reinstitutionalization: Examining the Evolution of Returns to College in China’s Public Sectors (2003-2021)&amp;rdquo; (In Chinese).&#xA;Annual Meeting of Chinese Sociological Association (CSA 2023), Tianjin. 2022&#xA;Wei, J. &amp;ldquo;Analyzing the Impact of Housing Acquisition on Youth Consumption in Urban China: Evidence from China Family Panel Studies 2016-2018&amp;rdquo; (In Chinese).</description>
     </item>
   </channel>
