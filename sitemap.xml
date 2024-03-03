@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jiajia-wei.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-03T11:18:49+08:00</lastmod>
   </url><url>
-    <loc>https://jiajia-wei.github.io/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
     <lastmod>2024-03-03T11:18:49+08:00</lastmod>
   </url><url>
-    <loc>https://jiajia-wei.github.io/media/</loc>
+    <loc>http://localhost:1313/media/</loc>
   </url><url>
-    <loc>https://jiajia-wei.github.io/blog/paper-reading/</loc>
+    <loc>http://localhost:1313/blog/paper-reading/</loc>
   </url><url>
-    <loc>https://jiajia-wei.github.io/media/reading/</loc>
+    <loc>http://localhost:1313/media/reading/</loc>
   </url><url>
-    <loc>https://jiajia-wei.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
   </url>
 </urlset>
